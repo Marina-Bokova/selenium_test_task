@@ -18,3 +18,6 @@ pip install -r requirements.txt
 
 [Инструкция](https://docs.qameta.io/allure/#_pytest) по интеграции с Pytest.
 
+![image](https://github.com/Marina-Bokova/selenium_test_task/assets/115635748/4e35d6a6-f7f3-4f57-a286-458d01ae93b0)
+
+![image](https://github.com/Marina-Bokova/selenium_test_task/assets/115635748/7fb89600-2b7f-47f3-b020-37173c4cee27)
